@@ -12,7 +12,7 @@ writing clear support documentation and handling customer tickets.
 |---|---------|----------|
 | 1 | [I forgot my password or can't log in](articles/01-forgot-password-or-cant-login.md) | Everyone |
 | 2 | [I can't see my results or report card](articles/02-cant-see-results-or-report-card.md) | Students |
-
+| 3 | [I cant open or submit my assignment](articles/03-cant-open-or-submit-assignment.md) | Students  |
 *Planned: 10 articles covering login, fee payment and account problems. More will be added as I complete them.*
 
 ## Planned next
